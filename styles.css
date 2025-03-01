@@ -1,0 +1,66 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-style:italic;    
+    background-color: rgba(12, 11, 11, 0.856) ;
+    
+}
+.pro{
+    border: 5px solid rgba(19, 17, 17, 0.856);
+    border-radius: 30px;
+    margin: 0;
+    background-image :linear-gradient(red,blue) ;
+    padding-bottom: 240px;
+}
+#name{
+    margin-left:auto;
+    width: 400px;
+    margin-right: auto;
+    font-size: 60px;
+    display:flex;
+    
+    border: 3px solid rgb(46, 41, 41);
+    border-radius: 20px;
+    background-color:rgb(241, 244, 245);
+    margin-top: 40px;
+    margin-bottom: 30px;
+   padding-left: 30px;
+   padding-bottom: 20px;
+}
+.d1{
+    margin-left: 30px;
+    margin-right: 30px;
+    font-size:30px;
+    border: 1px solid rgb(107, 97, 97);
+    background-color: whitesmoke;
+    border-radius: 20px;
+    padding-left: 20px ;
+}
+
+#bio{
+    margin-left: 30px;
+    margin-right: 30px;
+    font-size:30px;
+    border: 1px solid rgb(121, 106, 106);
+    background-color: whitesmoke;
+    border-radius: 20px;
+    padding-left: 20px ;
+    margin-top: 30px;
+}
+
+#bio1{
+    margin-left: 30px;
+    margin-right: 30px;
+    font-size:30px;
+    border: 1px solid rgb(119, 108, 108);
+    background-color: whitesmoke;
+    border-radius: 20px;
+    padding-left: 20px ;
+    margin-top: 40px;
+} 
+#a1{
+    font-size: 40px;
+    color: antiquewhite;
+    margin-top: 20px;
+    text-align: center;
+}
